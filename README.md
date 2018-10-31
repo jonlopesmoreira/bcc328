@@ -1,0 +1,1 @@
+Pongo é uma linguagem de programação simples, para fins didáticos, criada para treinar e colocar em prática os conhecimentos adquiridos na disciplina de Construção de Compiladores. Essa linguagem foi criada baseada na linguagem Tiger criada por Andrew Appel.
